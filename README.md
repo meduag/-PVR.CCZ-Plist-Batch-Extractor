@@ -43,3 +43,7 @@ Command 'TexturePacker' not found: Verifique se o TexturePacker está acessível
 
 👨‍🏫 Sobre o Projeto
 Este projeto foi desenvolvido como parte das atividades de automação e ferramentas de design no PROTIP (Laboratório de Prototipagem) da Universidade de Brasília (UnB), sob coordenação do Prof. Miguel Eduardo Gutierrez Paredes.
+
+
+Link para baixar e testar o TexturePacker 7. educativo Full Mega
+https://link-center.net/686699/3YpRWt2KqobY
