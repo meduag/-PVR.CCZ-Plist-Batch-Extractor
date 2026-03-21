@@ -1,3 +1,6 @@
+
+![logo 3 fw](https://github.com/user-attachments/assets/6eb147be-31aa-4be8-b960-f631ae18a04f)
+
 🎮 PVR.CCZ & Plist Batch Extractor
 Este é um script de automação em Python desenvolvido para processar em lote (batch) arquivos de atlas de sprites comprimidos em formato .pvr.ccz acompanhados de seus respectivos arquivos .plist.
 
