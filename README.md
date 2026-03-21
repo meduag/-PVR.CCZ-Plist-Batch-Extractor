@@ -4,6 +4,10 @@
 🎮 PVR.CCZ & Plist Batch Extractor
 Este é um script de automação em Python desenvolvido para processar em lote (batch) arquivos de atlas de sprites comprimidos em formato .pvr.ccz acompanhados de seus respectivos arquivos .plist.
 
+Video de instruciones:
+canal: www.meduag.com/meduag
+visdeo sobre el codigo: https://youtu.be/NOqP20TBwuI
+
 O diferencial desta ferramenta é a integração com o TexturePacker CLI, permitindo a extração de texturas mesmo quando utilizam compressão de hardware como PVRTC2, que bibliotecas de imagem comuns (como Pillow) não conseguem decodificar nativamente.
 
 🚀 Funcionalidades
