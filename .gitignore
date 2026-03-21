@@ -1,0 +1,24 @@
+# Python - Arquivos de cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Assets do Jogo (Evita subir arquivos protegidos ou pesados)
+*.pvr.ccz
+*.plist
+*.png
+*.jpg
+*.jpeg
+
+# Pastas de saída do script
+*_extraido/
+
+# Arquivos temporários do TexturePacker ou Sistema
+null.plist
+*_TEMP_CONVERTED.png
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais
+venv/
+.venv/
