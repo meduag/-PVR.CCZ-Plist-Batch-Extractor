@@ -30,7 +30,7 @@ Pillow (PIL): Para manipulação e recorte de imagens.
 
 Bash
 pip install Pillow
-TexturePacker CLI: O software TexturePacker deve estar instalado e seu executável configurado no PATH do sistema.
+TexturePacker CLI: O software TexturePacker deve estar instalado e seu executável configurado no PATH do sistema, isto quer dizer que vc precisa colocar a pasta bin do software TexturePacker nas variaveis de entorno, do contrario nao funcionará o codigo.
 
 📦 Como Usar
 Clone este repositório:
@@ -42,7 +42,7 @@ Coloque seus arquivos .plist e .pvr.ccz na pasta do script (ou aponte para o dir
 Execute o script:
 
 Bash
-python extractor.py
+python batch.py
 ⚠️ Tratamento de Erros Comuns
 Exit Status 10: Geralmente indica que o arquivo .pvr.ccz está protegido por uma Content Protection Key. Se você possuir a chave de 128 bits, ela deve ser adicionada aos argumentos do comando no script.
 
@@ -54,3 +54,5 @@ Este projeto foi desenvolvido como parte das atividades de automação e ferrame
 
 Link para baixar e testar o TexturePacker 7. educativo Full Mega
 https://link-center.net/686699/3YpRWt2KqobY
+
+Lembre depois de instalar que tem que abrir o programa e aceptar os termos antes de usar o arquivo de python batch.py.
